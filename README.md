@@ -28,12 +28,5 @@ This is a modern, responsive **electronics e-commerce website** built with **Rea
 ![Homepage](https://user-images.githubusercontent.com/your-image-link/homepage.png)
 <!-- Add actual image links/screenshots if you have them -->
 
-## 🛠️ Installation & Setup Instructions
 
-Follow these steps to run the project locally:
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-username/react-electronics-site.git
-   cd react-electronics-site
 
