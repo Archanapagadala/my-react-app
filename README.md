@@ -25,9 +25,16 @@ This is a modern, responsive **electronics e-commerce website** built with **Rea
 
 ## 📸 Screenshots
 
+[Login Page]
+![Image](https://github.com/user-attachments/assets/4386ac6f-8a81-4feb-b627-a65857693a5c)
 ![Homepage](![Image](https://github.com/user-attachments/assets/9f96e0f7-ca84-4084-b5bd-7ee39e1a3409)
 
 ![Image](https://github.com/user-attachments/assets/67e2919a-205d-4b01-85b1-575d0ccb6443))
+
+[ Cart ]
+![Image](https://github.com/user-attachments/assets/1a9dcd4b-9882-4f09-806b-27377d317518)
+
+![Image](https://github.com/user-attachments/assets/5eb8fea3-9c93-4598-970c-4db413ac4f2e)
 
 
 
